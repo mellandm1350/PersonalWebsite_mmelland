@@ -21,11 +21,14 @@
     <%@include file="includes/navigation.jsp"%><br>
 
     <div class="bio-text">
-        <p> My name is Madison Melland. I have moved multiple times and have currently settled in Wisconsin. <br>
-            I was born in San Antonio, TX and lived in Minot, ND during preschool. When I started kindergarten <br>
-            I was living in the Netherlands until the middle of 3rd grade where I finished the rest of my general <br>
-            education in Altoona, WI. I now currently live in Eau Claire, WI and have completed my associates for <br>
-            Networking and Computer Hardware at CVTC and I am currently pursuing a degree in Software Development.</p>
+        <p> My name is Madison Melland. I am currently a computer science student at University of Wisconsin - Stout. <br>
+            I graduated from Altoona High School in 2016 and continued my education at the Chippewa Valley Technical College. <br>
+            I enrolled in CVTC in fall semester of 2016 and graduated from their IT - Network Specialist degree in  <br>
+            the fall of 2019 and re-enrolled in the spring semester of 2020 for their IT - Software Developer degree.<br>
+            I graduated again from CVTC in 2021 earning my degree as an IT - Software Developer. After CVTC I <br>
+            decided to transfer to UW - Stout for the spring semester of 2022 to once again further my education <br>
+            by pursuing a bachelor's degree.
+        </p>
     </div>
 
     <%@include file="includes/footer.jsp"%>
