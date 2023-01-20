@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(45,45,45);
+    color: antiquewhite;
+    font-family: "Bahnschrift SemiBold", Arial, sans-serif;
+    margin: 7px;
+}
+/* unvisited link */
+a:link{
+    color: aqua;
+}
+/* visited link */
+a:visited{
+    color: lightblue;
+}
+
+/* select link */
+a:active{
+    color: mediumpurple;
+}
+
+div.form p {
+    font-size: 15px;
+}
+#email{
+    margin-left: 40px;
+}
+#firstName{
+    margin-left: 1px;
+}
+
+form{
+    margin: 3px;
+}
+
+.head-page {
+    font-size: 50px;
+}
+
+.hero-unit {
+    font-size: 10px;
+}
+
+hr{
+    margin-left: -6px;
+}
+
+#lastName {
+    margin-left: 3px;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
+
+
+
