@@ -4,20 +4,6 @@ body {
     font-family: "Bahnschrift SemiBold", Arial, sans-serif;
     margin: 7px;
 }
-/*!* unvisited link *!
-a:link{
-    color: aqua;
-}
-!* visited link *!
-a:visited{
-    color: lightblue;
-}
-
-!* select link *!
-a:active{
-    color: mediumpurple;
-}*/
-
 div.form p {
     font-size: 15px;
 }
@@ -72,7 +58,7 @@ li {
     color: black;
 }
 
-.topnav a.active {
+.navbar a.active {
     background-color: #04aa6d;
     color: white;
 }
