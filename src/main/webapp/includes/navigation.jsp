@@ -8,7 +8,6 @@
         <div class="navbar">
             <a href="index.jsp">Home</a>
             <a href="bio.jsp">Bio</a>
-            <a href="contact.jsp">Contact</a>
 
             <div class="dropdown">
                 <button class="dropbtn" onclick="window.location.href='contact.jsp'">Projects
@@ -18,7 +17,9 @@
                 <div class="dropdown-content">
                     <a href="#">All Projects</a>
                 </div>
-            </div>
+            </div> <%--End of dropdown div--%>
+
+            <a href="contact.jsp">Contact</a>
 
         </div>
     </body>
