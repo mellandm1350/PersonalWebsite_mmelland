@@ -12,7 +12,6 @@
         <div class="head-page">
             <h2>Welcome to my webpage</h2>
         </div>
-
         <%@include file="includes/navigation.jsp"%><br>
 
         <div class="container">

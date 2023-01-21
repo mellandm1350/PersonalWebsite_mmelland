@@ -19,7 +19,7 @@
                 </div>
             </div> <%--End of dropdown div--%>
 
-            <a href="contact.jsp">Contact</a>
+            <a href="contact.jsp">Contact Me</a>
 
         </div>
     </body>

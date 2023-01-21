@@ -4,6 +4,9 @@ body {
     font-family: "Bahnschrift SemiBold", Arial, sans-serif;
     margin: 7px;
 }
+div p {
+    line-height: 1.6;
+}
 div.form p {
     font-size: 15px;
 }
@@ -20,6 +23,7 @@ form{
 
 .head-page {
     font-size: 50px;
+    line-height: 1.6;
 }
 
 .hero-unit {
