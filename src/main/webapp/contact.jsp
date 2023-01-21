@@ -31,6 +31,9 @@
         <label for="email">Email:</label>
         <input type="text" name="email" id="email"><br><br>
 
+        <label for="description">Additional Information:</label><br>
+        <textarea name="description" id="description" rows="4" cols="45"></textarea>
+        <br><br>
         <input type="submit">
     </form>
 </div>

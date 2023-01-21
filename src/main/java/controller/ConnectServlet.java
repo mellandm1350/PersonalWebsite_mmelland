@@ -18,11 +18,14 @@ public class ConnectServlet extends HttpServlet {
         final String firstName = request.getParameter("firstName");
         final String lastName = request.getParameter("lastName");
         final String email = request.getParameter("email");
+        final String description = request.getParameter("description");
 
-        if (firstName != null && !firstName.isEmpty() && lastName != null && !lastName.isEmpty() && email != null && !email.isEmpty()) {
-            final User user = new User(firstName, lastName, email);
+        if (firstName != null && !firstName.isEmpty() && lastName != null
+                && !lastName.isEmpty() && email != null && !email.isEmpty()) {
+            final User user = new User(firstName, lastName, email, description);
 
             //TODO put the user into a database
+            //TODO setup SMTP to receive emails
 
             request.setAttribute("user", user);
         } else {
