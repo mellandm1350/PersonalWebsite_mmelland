@@ -10,6 +10,16 @@
             <a href="bio.jsp">Bio</a>
             <a href="contact.jsp">Contact</a>
 
+            <div class="dropdown">
+                <button class="dropbtn" onclick="window.location.href='contact.jsp'">Projects
+                    <i class="fa fa-caret-down"></i>
+                </button>
+
+                <div class="dropdown-content">
+                    <a href="#">All Projects</a>
+                </div>
+            </div>
+
         </div>
     </body>
 </html>
