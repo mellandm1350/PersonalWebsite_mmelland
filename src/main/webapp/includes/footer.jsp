@@ -1,4 +1,4 @@
 <hr>
-<div class="footer-div">
+<div class="hero-unit">
     &copy; Copyright 2020 Madison Melland
 </div>

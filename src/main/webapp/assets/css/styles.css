@@ -14,7 +14,7 @@ div.form p {
     margin-left: 40px;
 }
 #firstName {
-    margin-left: 1px;
+    margin-right: 8px;
 }
 
 form{
@@ -26,7 +26,7 @@ form{
     line-height: 1.6;
 }
 
-.footer-div {
+.hero-unit {
     font-size: 10px;
 }
 

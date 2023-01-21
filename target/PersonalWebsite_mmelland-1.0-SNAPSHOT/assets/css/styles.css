@@ -10,11 +10,11 @@ div p {
 div.form p {
     font-size: 15px;
 }
-#email{
+#email {
     margin-left: 40px;
 }
-#firstName{
-    margin-left: 1px;
+#firstName {
+    margin-right: 8px;
 }
 
 form{
