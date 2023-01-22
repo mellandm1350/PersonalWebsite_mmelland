@@ -15,8 +15,8 @@
     <%@include file="includes/navigation.jsp"%><br>
 
     <div class="container">
-        <p> If you would like to contact me please fill the form below and you will be contacted
-            as soon as I the request is received.</p><br>
+        <p> If you would like to contact me please fill the form below. You will be contacted
+            as soon as the request is received.</p><br>
     </div>
 
 <div class="form">
@@ -40,7 +40,7 @@
 
 
     <%@include file="includes/footer.jsp"%>
-</div
+</div>
 
 </body>
 </html>
