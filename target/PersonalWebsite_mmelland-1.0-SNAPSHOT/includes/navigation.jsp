@@ -8,8 +8,8 @@
         <div class="navbar">
             <a href="index.jsp">Home</a>
             <a href="bio.jsp">Bio</a>
-            <a href="#">Education</a>
-            <a href="#">Work History</a>
+            <a href="education.jsp">Education</a>
+            <a href="workHistory.jsp">Work History</a>
 
             <div class="dropdown">
                 <button class="dropbtn" onclick="window.location.href='contact.jsp'">Projects
