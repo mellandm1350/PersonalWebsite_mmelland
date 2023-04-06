@@ -4,6 +4,11 @@
 <head>
     <title>Education</title>
     <%@include file="includes/header.jsp"%>
+    <style>
+        #resumeNav {
+            background-color: #04AA6D;
+        }
+    </style>
 </head>
 <body>
 <div class="container">

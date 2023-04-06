@@ -3,6 +3,11 @@
 <head>
     <title>Bio</title>
     <%@include file="includes/header.jsp"%>
+    <style>
+        #bioNav {
+            background-color: #04AA6D;
+        }
+    </style>
 </head>
 <body>
 
@@ -11,9 +16,9 @@
         <h2>About Me</h2>
     </div>
 
-    <%@include file="includes/navigation.jsp"%><br>
+    <%@include file="includes/navigation.jsp"%>
 
-    <div class="bio-text">
+    <div class="main-content">
         <p> My name is Madison Melland. I am currently a computer science student at University of Wisconsin - Stout. <br>
             I graduated from Altoona High School in 2016 and continued my education at the Chippewa Valley Technical College. <br>
             I enrolled in CVTC in fall semester of 2016 and graduated from their IT - Network Specialist degree in  <br>

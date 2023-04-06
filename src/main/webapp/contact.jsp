@@ -3,6 +3,11 @@
 <head>
     <title>Contact</title>
     <%@include file="includes/header.jsp"%>
+    <style>
+        #contactNav {
+            background-color: #04AA6D;
+        }
+    </style>
 
 </head>
 <body>
@@ -12,14 +17,12 @@
         <h2>Contact Me</h2>
     </div>
 
-    <%@include file="includes/navigation.jsp"%><br>
+    <%@include file="includes/navigation.jsp"%>
 
-    <div class="container">
-        <p> If you would like to contact me please fill the form below. You will be contacted
-            as soon as the request is received.</p><br>
-    </div>
+<div class="main-content">
+    <p> If you would like to contact me please fill the form below. You will be contacted
+        as soon as the request is received.</p><br>
 
-<div class="form">
     <p style="color: red;">${message}</p>
     <form action="connect" method="post">
         <label for="firstName">First Name:</label>
