@@ -9,7 +9,7 @@
 <div class="container">
 
     <div class="head-page">
-        <h2>Education</h2>
+        <h2>Resume</h2>
     </div>
     <%@include file="includes/navigation.jsp"%>
 
