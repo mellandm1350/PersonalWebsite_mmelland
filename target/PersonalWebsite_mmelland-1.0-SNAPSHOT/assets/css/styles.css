@@ -6,6 +6,7 @@ body {
 }
 div p {
     line-height: 1.6;
+    display: none;
 }
 div.form p {
     font-size: 15px;
@@ -109,4 +110,3 @@ li {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
