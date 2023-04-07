@@ -1,21 +1,19 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Home</title>
+    <title>Madison Melland Portfolio</title>
     <%@include file="includes/header.jsp"%>
     <style>
         #indexNav {
             background-color: #04AA6D;
         }
     </style>
-
 </head>
-
 <body>
-
     <div class="container">
         <div class="head-page">
-            <h2>Welcome to my webpage</h2>
+            <h2>Madison Melland</h2>
+            <p>Computer Science Major</p>
         </div>
         <%@include file="includes/navigation.jsp"%>
 

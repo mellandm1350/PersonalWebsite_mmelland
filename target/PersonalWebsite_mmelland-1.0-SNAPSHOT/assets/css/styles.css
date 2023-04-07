@@ -2,7 +2,7 @@ body {
     background-color: rgb(35,35,35);
     color: antiquewhite;
     font-family: Arial, sans-serif;
-    width: 95%;
+    width: 80%;
     padding-top: 2%;
     margin: auto;
 }
@@ -29,9 +29,15 @@ form{
 
 .head-page {
     font-size: 50px;
-    line-height: 1.6;
-    padding-left: 10px;
+    color: #f2f2f2;
     text-align: center;
+    padding: 15px 0;
+
+}
+
+.head-page p {
+    font-style: italic;
+    font-size: 12px;
 }
 
 .hero-unit {

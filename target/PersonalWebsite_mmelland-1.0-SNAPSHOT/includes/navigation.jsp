@@ -7,7 +7,6 @@
     <body>
         <div class="navbar">
             <a id="indexNav" href="index.jsp">Home</a>
-            <a id="bioNav" href="bio.jsp">About Me</a>
             <a id="resumeNav" href="resume.jsp">Resume</a>
 <%--            <a href="workHistory.jsp">Work History</a>
 
