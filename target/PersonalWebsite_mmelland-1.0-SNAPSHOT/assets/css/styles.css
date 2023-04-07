@@ -31,6 +31,7 @@ form{
     font-size: 50px;
     line-height: 1.6;
     padding-left: 10px;
+    text-align: center;
 }
 
 .hero-unit {
@@ -44,10 +45,6 @@ form{
     margin-left: 3px;
 }
 
-li {
-    display: inline;
-    padding: 5px;
-}
 /* Navbar and dropdown styles */
 .navbar {
     background-color: #5a5a5a;
@@ -92,6 +89,7 @@ li {
     font-size: 25px;
     text-align: center;
     padding-bottom: 8px;
+    color: #f2f2f2;
 }
 
 .resume-content a{
@@ -99,12 +97,59 @@ li {
     text-decoration: none;
 }
 
-.resume-content p:first-child {
+#resume-download {
     text-align: center;
     padding-bottom: 16px;
 }
 
+.job-info p{
+    font-weight: bold;
+}
 
+.job-info span{
+    font-weight: normal;
+}
+
+.job-info ul {
+    display: block;
+    list-style-type: disc;
+    margin-left: 1em;
+    margin-bottom: 1.5em;
+
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+.edu-info {
+    margin-bottom: 1em;
+}
+
+.edu-info p{
+    font-weight: bold;
+}
+
+.edu-info p:last-child {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.edu-info span{
+    font-weight: normal;
+}
+
+.skills-info {
+    margin-bottom: 1em;
+}
+
+.skills-info p{
+    font-weight: bold;
+}
+
+.skills-info span{
+    font-weight: normal;
+}
 
 
 

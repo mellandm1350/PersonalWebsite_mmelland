@@ -15,7 +15,7 @@
     <div class="container">
         <p>Thanks ${user.firstName}, for taking an interest in my webpage! Expect to hear from me soon.
             Return to the <a href="index.jsp">Home page</a> or learn more about me
-            by viewing my <a href="bio.jsp">Bio</a>. </p>
+            by viewing my <a href="resume.jsp">resume</a>. </p>
     </div>
 
     <%@include file="includes/footer.jsp"%>
