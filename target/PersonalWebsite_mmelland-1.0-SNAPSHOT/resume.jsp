@@ -17,6 +17,12 @@
         <h2>Resume</h2>
     </div>
     <%@include file="includes/navigation.jsp"%>
+    <div class="resume-content">
+        <p>Download: <a href="assets/Madison%20Melland%20Resume%20Portfolio.pdf" target="_blank">PDF</a></p>
+        <h2>Profile</h2>
+        
+    </div>
+
 
 
     <%@include file="includes/footer.jsp"%>

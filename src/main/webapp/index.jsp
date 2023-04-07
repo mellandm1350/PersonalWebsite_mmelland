@@ -20,7 +20,7 @@
         <%@include file="includes/navigation.jsp"%>
 
         <div class="main-content">
-            <h2> Hello!</h2>
+            <h2>Hello!</h2>
             <p>Welcome to the portfolio of Madison Melland (programming enthusiast, hard worker, gamer.)</p>
             <p>To view my resume <a href="resume.jsp">click here</a>. To get in contact with you can find my <a href="contact.jsp">contact information here</a>. </p>
             <br>
