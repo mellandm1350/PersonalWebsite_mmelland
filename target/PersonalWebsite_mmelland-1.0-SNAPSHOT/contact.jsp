@@ -47,9 +47,6 @@
             <p>LinkedIn: <a href="https://www.linkedin.com/in/mellandm1350/">https://www.linkedin.com/in/mellandm1350/</a></p>
             <br>
 
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/mellandm1350/">https://www.linkedin.com/in/mellandm1350/</a></p>
-            <br>
-
             <p>GitHub</p>
             <div class="github-card" data-github="mellandm1350" data-width="400" data-height="" data-theme="default"></div>
             <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
