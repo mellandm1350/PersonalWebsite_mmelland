@@ -86,6 +86,10 @@ form{
     text-decoration: none;
 }
 
+.main-content a:hover{
+    text-decoration: underline;
+}
+
 .resume-content {
     background-color: rgb(45,45,45);
     padding: 16px 32px 32px;
@@ -101,6 +105,11 @@ form{
 .resume-content a{
     color: orangered;
     text-decoration: none;
+}
+
+.resume-content a:hover{
+    color: orangered;
+    text-decoration: underline;
 }
 
 #resume-download {
