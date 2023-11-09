@@ -3,6 +3,11 @@
     <head>
         <title>RESUME - Madison Melland</title>
         <%@include file="includes/header.jsp"%>
+        <style>
+            #resumeNav {
+                background-color: #04AA6D;
+            }
+        </style>
 
     </head>
     <body>
@@ -41,11 +46,11 @@
                 <div class="skills-info">
                     <p>Languages</p>
                     <p>Knowledgeable<span>: C++, C#, Java, HTML, CSS, JavaScript, jQuery, SQL</span></p>
-                    <p>Exposed<span>: PHP, Swift, Angular, VB.Net, ASP.NET</span></p>
+                    <p>Exposed<span>: PHP, Swift, Angular, GDScript, VB.Net, ASP.NET</span></p>
                 </div>
 
                 <div class="skills-info">
-                    <p>Applications<span>: Unity Engine, Unreal Engine, Git, GitHub, MySQL</span></p>
+                    <p>Applications<span>: Unity Engine, Unreal Engine, Godot, Git, GitHub, MySQL</span></p>
                 </div>
 
                 <div class="skills-info">
