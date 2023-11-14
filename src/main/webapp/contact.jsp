@@ -4,7 +4,7 @@
     <title>CONTACT - Madison Melland</title>
     <%@include file="includes/header.jsp"%>
     <style>
-        {
+        #contactNav {
             background-color: #04AA6D;
         }
     </style>

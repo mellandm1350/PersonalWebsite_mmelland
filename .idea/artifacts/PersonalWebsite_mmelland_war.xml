@@ -1,7 +1,13 @@
 <component name="ArtifactManager">
   <artifact type="war" name="PersonalWebsite_mmelland:war">
-    <output-path>$PROJECT_DIR$/out/artifacts/PersonalWebsite_mmelland_war</output-path>
-    <root id="archive" name="PersonalWebsite_mmelland_war.war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PersonalWebsite_mmelland</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PersonalWebsite_mmelland-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="PersonalWebsite_mmelland:war exploded" />
     </root>
   </artifact>
